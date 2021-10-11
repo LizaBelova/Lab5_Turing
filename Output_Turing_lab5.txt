@@ -1,0 +1,14 @@
+Position: 0, Status: Q1, Tape: $###$#10#$x
+Position: 2, Status: Q2, Tape: 0###$#10#$x
+Position: 3, Status: Q2, Tape: 00##$#10#$x
+Position: 4, Status: Q2, Tape: 000#$#10#$x
+Position: 5, Status: Q2, Tape: 0000$#10#$x
+Position: 6, Status: Q2, Tape: 00000#10#$x
+Position: 7, Status: Q2, Tape: 00000010#$x
+Position: 8, Status: Q2, Tape: 00000010#$x
+Position: 9, Status: Q2, Tape: 00000010#$x
+Position: 10, Status: Q2, Tape: 000000100$x
+Position: 11, Status: Q2, Tape: 0000001000x
+Position: 12, Status: Q3, Tape: 0000001000x
+Position: 13, Status: Q0, Tape: 0000001000x
+over
